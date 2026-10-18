@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%7C+Data+Scientist;AI+%26+Data+Science+Student;Python+Developer;Turning+data+into+decisions" alt="typing intro"/>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=rachi2006&label=PROFILE+VISITORS&color=7c3aed&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/rachi2006?label=Followers&style=for-the-badge&color=0e7490"/>
 
 </div>
